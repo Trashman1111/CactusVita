@@ -14,7 +14,7 @@ the original game, so the repository itself contains no Flipline material (see [
 
 > **Status:** playable at stable 60 FPS from the first area to the ending on a real PS Vita PCH-1004. This repository is version **02.55**; 
 > Not tested:
-> other Vita models PCH-100x, PCH200x, PSTV, Vita3K. It is a hobby project, shared in the hope
+> other Vita models PCH-100x, PCH200x, PSTV. It is a hobby project, shared in the hope
 > that it is useful to other homebrew developers and to fans of the game.
 
 <p align="center">
